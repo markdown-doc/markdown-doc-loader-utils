@@ -1,0 +1,17 @@
+{
+  "name": "zandoc-loader-utils",
+  "version": "1.0.0",
+  "description": "Utilities for zandoc-loader's AST",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "zanui",
+    "doc",
+    "utility"
+  ],
+  "author": "Li Chen <lichen@youzan.com>",
+  "license": "MIT"
+}
