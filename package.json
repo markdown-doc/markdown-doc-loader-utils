@@ -1,7 +1,7 @@
 {
-  "name": "zandoc-loader-utils",
+  "name": "markdown-doc-loader-utils",
   "version": "1.0.0",
-  "description": "Utilities for zandoc-loader's AST",
+  "description": "Utilities for markdown-doc-loader's AST",
   "main": "index.js",
   "scripts": {
   },

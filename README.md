@@ -1,12 +1,12 @@
-## zandoc-loader-utils
+## markdown-doc-loader-utils
 
-Utilities for zandoc-loader's AST
+Utilities for markdown-doc-loader's AST
 
 ### API
 
 `function map(ast, visitors)`
 
-* `ast` output form `zandoc-loader`
+* `ast` output form `markdown-doc-loader`
 * `visitors` is an object of visitors for different ASTs
 
 ```
